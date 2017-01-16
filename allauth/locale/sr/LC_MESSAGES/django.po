@@ -22,179 +22,179 @@ msgstr ""
 #: account/adapter.py:41
 msgid "Username can not be used. Please use other username."
 msgstr ""
-"Korisničko ime ne može biti korišteno. Molim vas da koristite drugo "
-"korisničko ime"
+"Корисничко име не може бити кориштено. Молим вас да користите друго "
+"корисничко име"
 
 #: account/adapter.py:45
 msgid "Too many failed login attempts. Try again later."
-msgstr ""
+msgstr "Превише неуспешних покушаја за пријаву. Покушајте поново касније."
 
 #: account/adapter.py:47
 msgid "A user is already registered with this e-mail address."
-msgstr "Već postoji registrovan korisnik sa ovom adresom e-pošte."
+msgstr "Већ постоји регистрован корисник са овом адресом е-поште."
 
 #: account/adapter.py:284
 #, python-brace-format
 msgid "Password must be a minimum of {0} characters."
-msgstr "Lozinka mora biti od minimalno {0} znakova."
+msgstr "Лозинка мора бити од минимално {0} знакова."
 
 #: account/apps.py:8
 msgid "Accounts"
-msgstr "Nalozi"
+msgstr "Налози"
 
 #: account/forms.py:39 account/forms.py:364
 msgid "You must type the same password each time."
-msgstr "Morate uneti istu lozinku svaki puta."
+msgstr "Морате унети исту лозинку сваки пут."
 
 #: account/forms.py:69 account/forms.py:331 account/forms.py:442
 msgid "Password"
-msgstr "Lozinka"
+msgstr "Лозинка"
 
 #: account/forms.py:70
 msgid "Remember Me"
-msgstr "Zapamti me"
+msgstr "Запамти ме"
 
 #: account/forms.py:76
 msgid "This account is currently inactive."
-msgstr "Ovaj nalog je trenutno neaktivan."
+msgstr "Овај налог је тренутно неактиван."
 
 #: account/forms.py:79
 msgid "The e-mail address and/or password you specified are not correct."
-msgstr "Adresa e-pošte i/ili lozinka koje ste naveli nisu ispravni."
+msgstr "Адреса е-поште и/или лозинка које сте навели нису исправни."
 
 #: account/forms.py:82
 msgid "The username and/or password you specified are not correct."
-msgstr "Korisničko ime i/ili lozinka koje ste naveli nisu ispravni."
+msgstr "Корисничко име и/или лозинка које сте навели нису исправни."
 
 #: account/forms.py:85
 msgid "The login and/or password you specified are not correct."
-msgstr "Pristupni podaci koje ste naveli nisu ispravni."
+msgstr "Корисничко име/е-пошта и/или лозинка које сте навели нису исправни."
 
 #: account/forms.py:94 account/forms.py:236 account/forms.py:392
 #: account/forms.py:461
 msgid "E-mail address"
-msgstr "Adresa e-pošte"
+msgstr "Адреса е-поште"
 
 #: account/forms.py:96 account/forms.py:267 account/forms.py:387
 #: account/forms.py:456
 msgid "E-mail"
-msgstr "E-pošta"
+msgstr "Е-пошта"
 
 #: account/forms.py:101 account/forms.py:104 account/forms.py:228
 #: account/forms.py:232
 msgid "Username"
-msgstr "Korisničko ime"
+msgstr "Корисничко име"
 
 #: account/forms.py:111
 msgid "Username or e-mail"
-msgstr "Korisničko ime ili e-pošta"
+msgstr "Корисничко име или адреса е-поште"
 
 #: account/forms.py:114
 msgctxt "field label"
 msgid "Login"
-msgstr "Korisničko ime ili e-pošta"
+msgstr "Корисничко име или адреса е-поште"
 
 #: account/forms.py:256
 #, fuzzy
 #| msgid "E-mail (optional)"
 msgid "E-mail (again)"
-msgstr "E-pošta (nije obavezno)"
+msgstr "Е-пошта (није обавезно)"
 
 #: account/forms.py:260
 #, fuzzy
 #| msgid "email confirmation"
 msgid "E-mail address confirmation"
-msgstr "potvrda adrese e-pošte"
+msgstr "Потврда адресе е-поште"
 
 #: account/forms.py:270
 msgid "E-mail (optional)"
-msgstr "E-pošta (nije obavezno)"
+msgstr "Е-пошта (није обавезно)"
 
 #: account/forms.py:312
 #, fuzzy
 #| msgid "You must type the same password each time."
 msgid "You must type the same email each time."
-msgstr "Morate uneti istu lozinku svaki puta."
+msgstr "Морате унети исту лозинку сваки пут."
 
 #: account/forms.py:332 account/forms.py:443
 msgid "Password (again)"
-msgstr "Lozinka (ponovo)"
+msgstr "Лозинка (поново)"
 
 #: account/forms.py:398
 msgid "This e-mail address is already associated with this account."
-msgstr "Ova adresa e-pošte je već povezana sa ovim nalogom."
+msgstr "Ова адреса е-поште је већ повезана са овим налогом."
 
 #: account/forms.py:400
 msgid "This e-mail address is already associated with another account."
-msgstr "Ova adresa e-pošte je već povezana sa drugim nalogom."
+msgstr "Ова адреса е-поште је већ повезана са другим налогом."
 
 #: account/forms.py:422
 msgid "Current Password"
-msgstr "Trenutna lozinka"
+msgstr "Тренутна лозинка"
 
 #: account/forms.py:423 account/forms.py:518
 msgid "New Password"
-msgstr "Nova lozinka"
+msgstr "Нова лозинка"
 
 #: account/forms.py:424 account/forms.py:519
 msgid "New Password (again)"
-msgstr "Nova lozinka (ponovo)"
+msgstr "Нова лозинка (поново)"
 
 #: account/forms.py:432
 msgid "Please type your current password."
-msgstr "Molim vas unesite vašu trenutnu lozinku."
+msgstr "Молим вас унесите вашу тренутну лозинку."
 
 #: account/forms.py:470
 msgid "The e-mail address is not assigned to any user account"
-msgstr "Ova adresa e-pošte nije povezana ni sa jednim korisničkim nalogom."
+msgstr "Адреса е-поште није повезана ни са једним корисничким налогом."
 
 #: account/forms.py:540
 msgid "The password reset token was invalid."
-msgstr ""
+msgstr "Токен за ресетовање ложинке је неважећи."
 
 #: account/models.py:26
 msgid "user"
-msgstr "korisnik"
+msgstr "корисник"
 
 #: account/models.py:30 account/models.py:89
 msgid "e-mail address"
-msgstr "adresa e-pošte"
+msgstr "адреса е-поште"
 
 #: account/models.py:31
 msgid "verified"
-msgstr "potvrđena"
+msgstr "верификована"
 
 #: account/models.py:32
 msgid "primary"
-msgstr "primarna"
+msgstr "примарна"
 
 #: account/models.py:37
 msgid "email address"
-msgstr "adresa e-pošte"
+msgstr "адреса е-поште"
 
 #: account/models.py:38
 msgid "email addresses"
-msgstr "adrese e-pošte"
+msgstr "адресе е-поште"
 
 #: account/models.py:91
 msgid "created"
-msgstr "napravljen"
+msgstr "направљен"
 
 #: account/models.py:93
 msgid "sent"
-msgstr "poslat"
+msgstr "послат"
 
 #: account/models.py:94 socialaccount/models.py:59
 msgid "key"
-msgstr "ključ"
+msgstr "кључ"
 
 #: account/models.py:99
 msgid "email confirmation"
-msgstr "potvrda adrese e-pošte"
+msgstr "потврда адресе е-поште"
 
 #: account/models.py:100
 msgid "email confirmations"
-msgstr "potvrde adrese e-pošte"
+msgstr "потврде адреса е-поште"
 
 #: socialaccount/adapter.py:25
 #, python-format
@@ -202,16 +202,16 @@ msgid ""
 "An account already exists with this e-mail address. Please sign in to that "
 "account first, then connect your %s account."
 msgstr ""
-"Već postoji nalog sa ovom adresom e-pošte. Molim vas da se prvo prijavite sa "
-"tim nalogom, a zatim da povežete vaš %s nalog."
+"Већ постоји налог са овом адресом е-поште. Молим вас да се прво пријавите са "
+"тим налого, а затим да повежете ваш %s налог."
 
 #: socialaccount/adapter.py:130
 msgid "Your account has no password set up."
-msgstr "Vaš nalog nema postavljenu lozinku"
+msgstr "Ваш налог нема постављену лозинку."
 
 #: socialaccount/adapter.py:137
 msgid "Your account has no verified e-mail address."
-msgstr "Vaš nalog nema potvrđenu adresu e-pošte."
+msgstr "Ваш налог нема верификовану адресу е-поште."
 
 #: socialaccount/apps.py:8
 msgid "Social Accounts"
@@ -497,12 +497,12 @@ msgstr ""
 
 #: templates/account/login.html:42
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Заборавили сте лозинку?"
 
 #: templates/account/logout.html:5 templates/account/logout.html.py:8
 #: templates/account/logout.html:17
 msgid "Sign Out"
-msgstr ""
+msgstr "Одјави се"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
